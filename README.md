@@ -1,1 +1,1 @@
-# pluralsight-jenkins-shared-library
+# jenkins-pipeline-demo-library
